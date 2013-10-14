@@ -17,6 +17,7 @@ namespace WIF.SJA.API.Tests.Controllers
             actionTestExec = new TestExecutor();
         }
 
+        //check if Action web server response is null
         [TestMethod]
         public void Action_Web_Server_Response_Test()
         {
@@ -26,9 +27,11 @@ namespace WIF.SJA.API.Tests.Controllers
             Assert.IsNotNull(response, "Web Server did not send a response for Action");
         }
 
+        //check if returned json is a valid json string
         [TestMethod]
         public void Action_Valid_Json_Format_Test()
         {
+
             try
             {
                 JArray actions = JArray.Parse(actionTestExec.Get("action", null));
@@ -44,10 +47,10 @@ namespace WIF.SJA.API.Tests.Controllers
 
         }
 
+        //check if json data is in proper format
         [TestMethod]
         public void Action_Json_Object_Format_Test()
         {
-
 
             JObject json_action = JObject.Parse(actionTestExec.Get("action", "(1)"));
 
@@ -64,11 +67,12 @@ namespace WIF.SJA.API.Tests.Controllers
 
         }
 
+        //check if action organization id and user organization id is the same
         [TestMethod]
         public void ActionOrg_UserOrg_Id_Equality_Test()
         {
+            //for all actions
 
-            //for all dangers
             JArray actions = JArray.Parse(actionTestExec.Get("action", null));
 
             List<WIF.SJA.API.Models.Action> action_list = actions.ToObject<List<WIF.SJA.API.Models.Action>>();
@@ -86,10 +90,10 @@ namespace WIF.SJA.API.Tests.Controllers
             }
         }
 
+        //check if there are null fields
         [TestMethod]
         public void All_Fields_Present_In_Action_Test()
         {
-
             //for all tasks
             JArray actions = JArray.Parse(actionTestExec.Get("action", null));
 
@@ -110,9 +114,10 @@ namespace WIF.SJA.API.Tests.Controllers
             }
         }
 
+        //check for unauthorized uri patterns
         [TestMethod]
         public void Action_Uri_Conventions_Test()
-        {
+        {           
 
             bool is_filtering_allowed = false;
 

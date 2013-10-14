@@ -18,6 +18,7 @@ namespace WIF.SJA.API.Tests.Controllers
             dangerTestExec = new TestExecutor();
         }
 
+        //check if Danger web server response is null
         [TestMethod]
         public void Danger_Web_Server_Response_Test()
         {
@@ -27,9 +28,10 @@ namespace WIF.SJA.API.Tests.Controllers
             Assert.IsNotNull(response, "Web Server did not send a response for Danger");
         }
 
+        //check if returned json is a valid json string
         [TestMethod]
         public void Danger_Valid_Json_Format_Test()
-        {
+        {           
 
             try
             {
@@ -46,11 +48,10 @@ namespace WIF.SJA.API.Tests.Controllers
 
         }
 
+        //check if json data is in proper format
         [TestMethod]
         public void Danger_Json_Object_Format_Test()
         {
-
-
             JObject json_danger = JObject.Parse(dangerTestExec.Get("danger", "(1)"));
 
             try
@@ -66,6 +67,7 @@ namespace WIF.SJA.API.Tests.Controllers
 
         }
 
+        //check if danger organization id and user organization id is the same
         [TestMethod]
         public void DangerOrg_UserOrg_Id_Equality_Test()
         {
@@ -88,10 +90,11 @@ namespace WIF.SJA.API.Tests.Controllers
             }
         }
 
+        //check if there are null fields
+
         [TestMethod]
         public void All_Fields_Present_In_Danger_Test()
         {
-
             //for all tasks
             JArray dangers = JArray.Parse(dangerTestExec.Get("danger", null));
 
@@ -113,10 +116,10 @@ namespace WIF.SJA.API.Tests.Controllers
             }
         }
 
+        //check for unauthorized uri patterns
         [TestMethod]
         public void Danger_Uri_Conventions_Test()
         {
-
             bool is_filtering_allowed = false;
 
             JArray dangers_with_filter = JArray.Parse(dangerTestExec.Get("danger", "?$filter=id eq 1 "));

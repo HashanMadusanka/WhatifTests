@@ -18,6 +18,7 @@ namespace WIF.SJA.API.Tests.Controllers
             taskTestExec = new TestExecutor();
         }
 
+        //check if Task web server response is null
         [TestMethod]
         public void Task_Web_Server_Response_Test()
         {
@@ -27,6 +28,7 @@ namespace WIF.SJA.API.Tests.Controllers
             Assert.IsNotNull(response, "Web Server did not send a response for Task");
         }
 
+        //check if returned json is a valid json string
         [TestMethod]
         public void Task_Valid_Json_Format_Test()
         {
@@ -46,6 +48,7 @@ namespace WIF.SJA.API.Tests.Controllers
 
         }
 
+        //check if json data is in proper format
         [TestMethod]
         public void Task_Json_Object_Format_Test()
         {
@@ -66,6 +69,7 @@ namespace WIF.SJA.API.Tests.Controllers
 
         }
 
+        //check if action organization id and user organization id is the same
         [TestMethod]
         public void TaskOrg_UserOrg_Id_Equality_Test()
         {
@@ -88,6 +92,7 @@ namespace WIF.SJA.API.Tests.Controllers
             }
         }
 
+        //check if there are null fields
         [TestMethod]
         public void All_Fields_Present_In_Task_Test()
         {
@@ -113,6 +118,7 @@ namespace WIF.SJA.API.Tests.Controllers
             }
         }
 
+        //check for unauthorized uri patterns
         [TestMethod]
         public void Task_Uri_Conventions_Test()
         {
