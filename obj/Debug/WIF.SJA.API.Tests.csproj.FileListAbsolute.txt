@@ -1,0 +1,109 @@
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\obj\Debug\WIF.SJA.API.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.Tests.dll.config
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.Tests.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.Tests.pdb
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\EntityFramework.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Microsoft.Data.Edm.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Microsoft.Data.OData.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Spatial.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Cors.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.Cors.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.OData.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Razor.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\FluentValidation.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\log4net.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.Tracing.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\RefactorThis.GraphDiff.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.pdb
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\EntityFramework.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Microsoft.Data.Edm.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Microsoft.Data.OData.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Spatial.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.OData.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Razor.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.Tracing.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\de\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\es\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\fr\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\it\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ja\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ko\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\ru\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\obj\Debug\WIF.SJA.API.Tests.dll
+E:\Projects\Whatif SJA\SJA Fork\SJA\WIF.SJA\WIF.SJA.API.Tests\obj\Debug\WIF.SJA.API.Tests.pdb
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.Tests.dll.config
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.Tests.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.Tests.pdb
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Razor.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\FluentValidation.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\log4net.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.Tracing.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\RefactorThis.GraphDiff.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Razor.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\WIF.SJA.API.pdb
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.Tracing.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Whatif\tests\WIF.SJA.API.Tests\obj\Debug\WIF.SJA.API.Tests.dll
+D:\Whatif\tests\WIF.SJA.API.Tests\obj\Debug\WIF.SJA.API.Tests.pdb
+D:\Whatif\tests\WIF.SJA.API.Tests\obj\Debug\WIF.SJA.API.Tests.csprojResolveAssemblyReference.cache
