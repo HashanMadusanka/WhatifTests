@@ -95,7 +95,7 @@ namespace WIF.SJA.API.Tests.Controllers
         [TestMethod]
         public void All_Fields_Present_In_Danger_Test()
         {
-            //for all tasks
+            //for all dangers
             JArray dangers = JArray.Parse(dangerTestExec.Get("danger", null));
 
             List<Danger> danger_list = dangers.ToObject<List<Danger>>();

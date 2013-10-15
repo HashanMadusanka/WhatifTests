@@ -128,6 +128,7 @@
     <Compile Include="Controllers\TaskTest.cs" />
     <Compile Include="Controllers\DangerTest.cs" />
     <Compile Include="Controllers\ActionTest.cs" />
+    <Compile Include="Controllers\AnalyseTest.cs" />
     <Compile Include="Controllers\UserTest.cs" />
     <Compile Include="Settings\TestSettings.cs" />
     <Compile Include="TestExecutor.cs" />

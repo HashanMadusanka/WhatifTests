@@ -14,7 +14,7 @@ namespace WIF.SJA.API.Tests.Controllers
         TestExecutor userTestExec;
 
         [TestInitialize]
-        public void InitOrganizationTest()
+        public void InitUserTest()
         {
             userTestExec = new TestExecutor();
         }
@@ -110,26 +110,23 @@ namespace WIF.SJA.API.Tests.Controllers
 
 
             //test string
-          // string user_json= @"[{idxxx: 16,email: ""hashanw@99x.lk"",locale_id: 1,full_name: ""Hashan"",locale: {id: 1,code: ""en"",name: ""English""},user_role_org: [{id: 16,user_id: 16,role_id: 2,org_id: 1,last_accessed: ""0001-01-01T00:00:00"",organization: {id: 1,name: ""Happy Inc"",org_category: [ ]},role: {id: 2,name: ""user""}}]}]";
+             //string user_json= @"{""id"": 16,""password"": ""pass"",""salt"": ""s"",""email"": ""hashanw@99x.lk"",""locale_id"": 1,""full_name"": ""Hashan"",""locale"": {""id"": 1,""code"": ""en"",""name"": ""English""},""user_role_org"": [{""id"": 16,""user_id"": 16,""role_id"": 2,""org_id"": 1,""last_accessed"": ""0001-01-01T00:00:00"",""organization"": {""id"": 1,""name"": ""Happy Inc"",""org_category"": [ ]},""role"": {""id"": 2,""name"": ""user""}}]}";
 
             JArray admin_users = JArray.Parse(userTestExec.AdminGet("user", "?$filter=email eq 'test'"));
 
             JArray users = JArray.Parse(userTestExec.Get("user", "?$filter=email eq 'hashanw@99x.lk'"));
 
-            JsonSerializer jsonSerializer = JsonSerializer.Create(new JsonSerializerSettings { MissingMemberHandling = MissingMemberHandling.Error });
 
-            try { 
-            
-                List<User> admin=jsonSerializer.Deserialize<List<User>>(new JsonTextReader(new StringReader(admin_users.ToString())));
-                List<User> user = jsonSerializer.Deserialize<List<User>>(new JsonTextReader(new StringReader(users.ToString())));
+            List<User> admin = JsonConvert.DeserializeObject<List<User>>(admin_users.ToString());
+            List<User> user = JsonConvert.DeserializeObject<List<User>>(admin_users.ToString());
 
-                Assert.Fail("Users can access unauthorized content on the json response");
-            }
-            catch(JsonSerializationException e){ 
 
-            }
+                Assert.IsNull(admin[0].password, "Admin users can view their passwords");
+                Assert.IsNull(admin[0].salt, "Admin users can view their salt");
+                Assert.IsNull(user[0].password, "Users can view their passwords");
+                Assert.IsNull(user[0].salt, "Users can view their salt"); 
         
-        }
+             }
 
         //check for unauthorized uri patterns
         [TestMethod]

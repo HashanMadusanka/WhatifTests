@@ -94,7 +94,7 @@ namespace WIF.SJA.API.Tests.Controllers
         [TestMethod]
         public void All_Fields_Present_In_Action_Test()
         {
-            //for all tasks
+            //for all actions
             JArray actions = JArray.Parse(actionTestExec.Get("action", null));
 
             List<WIF.SJA.API.Models.Action> action_list = actions.ToObject<List<WIF.SJA.API.Models.Action>>();
